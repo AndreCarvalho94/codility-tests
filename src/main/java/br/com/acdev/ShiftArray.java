@@ -1,5 +1,7 @@
 package br.com.acdev;
 
+//Este código resolve o problema descrito neste URL
+/*https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/*/
 public class ShiftArray {
 
     public int[] shiftArray(int[] A, int k){
